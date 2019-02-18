@@ -1,0 +1,1786 @@
+﻿Log file open, 02/16/19 10:29:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProceduralGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-17035577) SRandInit(-17035577).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164339
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal  -epicusername="mansartesteban" -epicuserid=bbe00aada9074c3ca612a1cc2aee7827 -epiclocale=fr-FR
+LogInit: Base directory: D:/Software/UnrealEngine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.16-09.29.48:376][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.16-09.29.48:376][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.16-09.29.48:437][  0]LogInit: Computer: DESKTOP-9LVK4B6
+[2019.02.16-09.29.48:437][  0]LogInit: User: GENOM
+[2019.02.16-09.29.48:437][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.16-09.29.48:437][  0]LogInit: High frequency timer resolution =4.101565 MHz
+[2019.02.16-09.29.48:438][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.02.16-09.29.48:438][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.16-09.29.48:438][  0]LogMemory: Process Physical Memory: 277.08 MB used, 277.08 MB peak
+[2019.02.16-09.29.48:438][  0]LogMemory: Process Virtual Memory: 274.25 MB used, 274.25 MB peak
+[2019.02.16-09.29.48:438][  0]LogMemory: Physical Memory: 6323.55 MB used,  10012.88 MB free, 16336.42 MB total
+[2019.02.16-09.29.48:438][  0]LogMemory: Virtual Memory: 4785.98 MB used,  10012.88 MB free, 134217728.00 MB total
+[2019.02.16-09.29.48:574][  0]LogInit: Using OS detected language (fr-FR).
+[2019.02.16-09.29.48:574][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.02.16-09.29.48:577][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2019.02.16-09.29.48:577][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2019.02.16-09.29.49:095][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.16-09.29.49:138][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.02.16-09.29.49:138][  0]LogD3D11RHI:       8086/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.16-09.29.49:140][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.16-09.29.49:140][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.16-09.29.49:140][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.16-09.29.49:145][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.16-09.29.49:145][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.16-09.29.49:145][  0]LogWindows: EnumDisplayDevices:
+[2019.02.16-09.29.49:145][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.02.16-09.29.49:146][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.02.16-09.29.49:146][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.02.16-09.29.49:146][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.02.16-09.29.49:146][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.16-09.29.49:146][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.02.16-09.29.49:146][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.16-09.29.49:146][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.16-09.29.49:146][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2019.02.16-09.29.49:169][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.16-09.29.49:179][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.02.16-09.29.49:232][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Intermediate/Shaders/WorkingDirectory/8164/).
+[2019.02.16-09.29.49:232][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/GENOM/AppData/Local/Temp/UnrealShaderWorkingDir/6D35EDC44990495CEA9C5B8CBB4F0B85/'.
+[2019.02.16-09.29.49:232][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.16-09.29.49:899][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.16-09.29.49:938][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.16-09.29.49:977][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.16-09.29.50:015][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.16-09.29.50:052][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.16-09.29.50:091][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.16-09.29.50:130][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.16-09.29.50:169][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.16-09.29.50:203][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.16-09.29.50:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.16-09.29.50:277][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.02.16-09.29.50:314][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.02.16-09.29.50:354][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.02.16-09.29.50:391][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.02.16-09.29.50:427][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.02.16-09.29.50:502][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.02.16-09.29.50:502][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.02.16-09.29.50:532][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.16-09.29.50:608][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.16-09.29.50:629][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.16-09.29.50:672][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.16-09.29.50:710][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.16-09.29.50:748][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.16-09.29.50:786][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.16-09.29.50:786][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.16-09.29.51:169][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.16-09.29.51:236][  0]LogDerivedDataCache: Loaded boot cache 0.07s 93MB C:/Users/GENOM/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2019.02.16-09.29.51:236][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/GENOM/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2019.02.16-09.29.51:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.16-09.29.51:236][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.16-09.29.51:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.16-09.29.51:236][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.16-09.29.51:246][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.16-09.29.51:259][  0]LogDerivedDataCache: Using Local data cache path C:/Users/GENOM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.16-09.29.51:267][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.16-09.29.51:268][  0]LogSlate: Using Freetype 2.6.0
+[2019.02.16-09.29.51:268][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.16-09.29.51:268][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.16-09.29.51:493][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2019.02.16-09.29.51:576][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.16-09.29.51:785][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2019.02.16-09.29.52:018][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.16-09.29.52:049][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.16-09.29.52:049][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.16-09.29.52:049][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.16-09.29.52:049][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.02.16-09.29.52:049][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.02.16-09.29.52:317][  0]LogNetVersion: ProceduralGame , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 561059596)
+[2019.02.16-09.29.52:573][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.109120 seconds
+[2019.02.16-09.29.52:578][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2019.02.16-09.29.52:578][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2019.02.16-09.29.52:578][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.16-09.29.52:621][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.02.16-09.29.55:038][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.16-09.29.55:074][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.16-09.29.55:621][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.02.16-09.29.55:964][  0]SourceControl: Source control is disabled
+[2019.02.16-09.29.55:964][  0]SourceControl: Source control is disabled
+[2019.02.16-09.29.56:008][  0]SourceControl: Source control is disabled
+[2019.02.16-09.29.56:047][  0]SourceControl: Source control is disabled
+[2019.02.16-09.29.56:527][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.16-09.29.56:732][  0]LogOcInput: OculusInput pre-init called
+[2019.02.16-09.29.56:942][  0]LogEngine: Initializing Engine...
+[2019.02.16-09.29.56:944][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.16-09.29.57:094][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.16-09.29.57:094][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.16-09.29.57:189][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.16-09.29.57:205][  0]LogInit: XAudio2 using 'Casque pour téléphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.02.16-09.29.57:339][  0]LogInit: FAudioDevice initialized.
+[2019.02.16-09.29.57:385][  0]LogDerivedDataCache: Saved boot cache 0.05s 93MB C:/Users/GENOM/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2019.02.16-09.29.57:402][  0]LogInit: Texture streaming: Enabled
+[2019.02.16-09.29.57:484][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.16-09.29.57:670][  0]LogInit: Transaction tracking system initialized
+[2019.02.16-09.29.57:906][  0]BlueprintLog: New page: Editor Load
+[2019.02.16-09.29.58:560][  0]LocalizationService: Localization service is disabled
+[2019.02.16-09.29.59:126][  0]LogConsoleResponse: Display: 
+[2019.02.16-09.29.59:299][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.16-09.29.59:299][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.16-09.29.59:299][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.16-09.30.00:097][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/' took 0.03s
+[2019.02.16-09.30.00:131][  0]SourceControl: Source control is disabled
+[2019.02.16-09.30.00:251][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.16-09.30.00:252][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.16-09.30.11:936][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.16-09.30.11:937][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.16-09.30.11:941][  0]Cmd: MAP LOAD FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.16-09.30.11:942][  0]LightingResults: New page: Lighting Build
+[2019.02.16-09.30.11:983][  0]MapCheck: New page: Map Check
+[2019.02.16-09.30.11:983][  0]LightingResults: New page: Lighting Build
+[2019.02.16-09.30.12:857][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.16-09.30.12:919][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.16-09.30.12:926][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.16-09.30.12:976][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.818ms to complete.
+[2019.02.16-09.30.12:976][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.035
+[2019.02.16-09.30.13:431][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_269c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_4bf0_0///####STATCAT_Advanced####
+[2019.02.16-09.30.13:431][  0]LogCollectionManager: Loaded 0 collections in 0.001352 seconds
+[2019.02.16-09.30.13:611][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Collections/' took 0.01s
+[2019.02.16-09.30.13:611][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Developers/GENOM/Collections/' took 0.01s
+[2019.02.16-09.30.13:611][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Collections/' took 0.01s
+[2019.02.16-09.30.13:611][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.16-09.30.13:640][  0]LogContentBrowser: Native class hierarchy populated in 0.0273 seconds. Added 2386 classes and 500 folders.
+[2019.02.16-09.30.13:727][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2019.02.16-09.30.14:832][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.02.16-09.30.14:935][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.02.16-09.30.15:694][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.16-09.30.15:776][  0]LogSlate: Took 0.016522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.16-09.30.16:166][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.16-09.30.16:694][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.02.16-09.30.16:694][  0]LogLoad: (Engine Initialization) Total time: 30.40 seconds
+[2019.02.16-09.30.16:694][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.16-09.30.16:694][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2019.02.16-09.30.16:772][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.16-09.30.16:875][  0]LogSlate: Took 0.019278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.02.16-09.30.16:904][  1]LogAssetRegistry: Asset discovery search completed in 25.4333 seconds
+[2019.02.16-09.30.16:905][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.16-09.30.16:905][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2019.02.16-09.30.17:712][ 91]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.02.16-09.30.23:391][757]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.02.16-09.30.23:982][757]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 113 classes and 0 folders.
+[2019.02.16-09.30.24:768][757]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.16-09.30.25:195][757]LogSlate: Took 0.020268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.16-10.06.48:042][306]LogSlate: Took 0.041304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.16-10.07.03:320][907]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.07.36:340][ 17]LogRenderer: Reallocating scene render targets to support 1364x900 Format 10 NumSamples 1 (Frame:1).
+[2019.02.16-10.08.44:989][886]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.013
+[2019.02.16-10.08.45:265][886]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Procedural/Planet] ([1] browsable assets)...
+[2019.02.16-10.08.45:265][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/Procedural/Planet]
+[2019.02.16-10.08.45:554][886]LogSavePackage: Save=101.28ms
+[2019.02.16-10.08.45:554][886]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet_Auto19BD8512C42216D4015F760B0B380F0D0.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/Procedural/Planet_Auto1.uasset'
+[2019.02.16-10.08.45:571][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/Procedural/Planet_Auto1.uasset
+[2019.02.16-10.08.45:571][886]LogFileHelpers: Auto-saving content packages took 0.581
+[2019.02.16-10.12.10:257][179]LogWindows: LaunchFileInExternalEditor D:/Software/UnrealEngine/UE_4.17/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h 
+[2019.02.16-10.12.11:241][179]LogWindows: Launch application code for D:/Software/UnrealEngine/UE_4.17/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h : 42
+[2019.02.16-10.12.11:241][179]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.02.16-10.12.11:246][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:246][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:247][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:247][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:247][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:247][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:247][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:247][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:247][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:247][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:248][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:248][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:248][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:248][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:248][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:248][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:248][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:248][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:248][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:248][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:249][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:250][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:251][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:252][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:252][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:252][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:252][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:254][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:254][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:255][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:255][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:255][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:255][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:255][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:255][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:255][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:255][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:255][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:256][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:256][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:256][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:256][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:256][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:256][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:256][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:256][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:257][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:257][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:257][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:257][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:257][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:257][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:257][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:257][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:257][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:259][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:259][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:259][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:259][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:260][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:260][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:260][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:260][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:260][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:270][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:270][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:270][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:270][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:284][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:296][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:296][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:296][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:297][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:297][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:304][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:305][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:308][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:311][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:311][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:323][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:324][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:324][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:324][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:324][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:324][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:341][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:341][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.12.11:342][179]LogVSAccessor: Warning: Couldn't access module table
+[2019.02.16-10.13.17:808][360]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.13.18:024][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-10.13.18:066][360]LogSavePackage: Save=37.57ms
+[2019.02.16-10.13.18:066][360]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetD92CD63F4F0B41EE55DA2B90B853788E.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-10.13.18:068][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-10.16.17:833][235]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.16.17:971][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-10.16.18:013][235]LogSavePackage: Save=37.51ms
+[2019.02.16-10.16.18:013][235]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetC47A7EFE46D0E8BC902DEEB28EAFFD3D.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-10.16.18:015][235]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-10.16.37:697][529]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.22.32:261][453]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.22.32:399][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-10.22.32:440][453]LogSavePackage: Save=35.56ms
+[2019.02.16-10.22.32:440][453]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet35F689C04C740850557CE78F696C9DA7.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-10.22.32:442][453]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-10.22.55:022][580]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.24.44:441][200]LogSavePackage: Save=56.41ms
+[2019.02.16-10.24.44:441][200]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Minimal_Default_Auto2C7ACFD8F4BF7F527D305A9A29DFA7F3B.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2019.02.16-10.24.44:442][200]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap
+[2019.02.16-10.24.44:522][200]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.414
+[2019.02.16-10.24.44:522][200]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.414
+[2019.02.16-10.24.44:523][200]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Procedural/Planet] ([1] browsable assets)...
+[2019.02.16-10.24.44:523][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/Procedural/Planet]
+[2019.02.16-10.24.44:563][200]LogSavePackage: Save=36.78ms
+[2019.02.16-10.24.44:563][200]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet_Auto224160C3A4E0F9D4F8F7C2BB18CA94843.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/Procedural/Planet_Auto2.uasset'
+[2019.02.16-10.24.44:564][200]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/Procedural/Planet_Auto2.uasset
+[2019.02.16-10.24.44:564][200]LogFileHelpers: Auto-saving content packages took 0.042
+[2019.02.16-10.25.02:885][896]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.25.03:077][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-10.25.03:122][896]LogSavePackage: Save=41.05ms
+[2019.02.16-10.25.03:122][896]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetBAE1AE54462952C39A721BBEBCDD2263.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-10.25.03:124][896]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-10.25.51:037][220]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.25.51:236][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-10.25.51:279][220]LogSavePackage: Save=39.08ms
+[2019.02.16-10.25.51:279][220]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet9BC0D5A54B500AC5CF56A5ADF1B795E9.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-10.25.51:281][220]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-10.27.36:378][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-10.27.36:421][496]LogSavePackage: Save=39.44ms
+[2019.02.16-10.27.36:421][496]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet68064DF949BA9CFAE3C10B8974770E05.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-10.27.36:423][496]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-10.27.37:158][558]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.27.59:031][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.16-10.27.59:031][936]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.16-10.27.59:037][936]LogPlayLevel: [PlayLevel] Compiling Planet before play...
+[2019.02.16-10.27.59:215][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-10.27.59:257][936]LogSavePackage: Save=38.01ms
+[2019.02.16-10.27.59:258][936]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet9C89337C404ADFFCF9D3DF929E7E89DD.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-10.27.59:260][936]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-10.27.59:274][936]LogPlayLevel: PlayLevel: Blueprint regeneration took 242 ms (1 blueprints)
+[2019.02.16-10.27.59:291][936]PIE: New page: SIE session: Minimal_Default (Feb 16, 2019, 12:27:59 PM)
+[2019.02.16-10.27.59:291][936]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.16-10.27.59:322][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030800s)
+[2019.02.16-10.27.59:323][936]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.16-10.27.59:323][936]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2019.02.16-10.27.59:323][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.031773s)
+[2019.02.16-10.27.59:345][936]LogInit: XAudio2 using 'Casque pour téléphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.02.16-10.27.59:471][936]LogInit: FAudioDevice initialized.
+[2019.02.16-10.27.59:547][936]LogLoad: Game class is 'GameModeBase'
+[2019.02.16-10.27.59:589][936]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.02.16-11.27.59
+[2019.02.16-10.27.59:591][936]LogWorld: Bringing up level for play took: 0.002503
+[2019.02.16-10.27.59:671][936]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2019.02.16-10.27.59:672][936]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.481
+[2019.02.16-10.27.59:766][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.16-10.28.12:566][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.16-10.28.12:613][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.16-10.28.29:527][ 83]LogEditorTransaction: Undo RemovePin
+[2019.02.16-10.28.32:503][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-10.28.32:545][364]LogSavePackage: Save=38.08ms
+[2019.02.16-10.28.32:545][364]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet46A147DB4A6973B74DEF3EAACFC2147E.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-10.28.32:547][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-10.28.52:316][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-10.28.52:359][427]LogSavePackage: Save=38.72ms
+[2019.02.16-10.28.52:359][427]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet768ED69945B875BFF8C7078425FF33B8.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-10.28.52:361][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-10.28.53:526][547]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.29.54:954][948]BlueprintLog: New page: Compile Planet
+[2019.02.16-10.29.55:150][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-10.29.55:193][948]LogSavePackage: Save=38.31ms
+[2019.02.16-10.29.55:193][948]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet93E1A39E432A13A4B9FFC8B573772B8A.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-10.29.55:195][948]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-10.34.58:834][307]LogSavePackage: Save=57.44ms
+[2019.02.16-10.34.58:834][307]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Minimal_Default_Auto3067F73444889624BCF18DC99A56774AF.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2019.02.16-10.34.58:835][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap
+[2019.02.16-10.34.58:836][307]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.080
+[2019.02.16-10.34.58:836][307]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.080
+[2019.02.16-13.48.36:637][389]LogEditorViewport: Clicking on Actor (LMB): Planet_C (Planet)
+[2019.02.16-13.48.49:754][744]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.48.50:028][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.48.50:100][744]LogSavePackage: Save=40.01ms
+[2019.02.16-13.48.50:100][744]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetAEC37EA948D997277C6293AA721872DF.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.48.50:102][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.49.48:230][914]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.49.48:432][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.49.48:474][914]LogSavePackage: Save=38.30ms
+[2019.02.16-13.49.48:474][914]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetD3E59E7248E00B4BB467D58D57277E37.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.49.48:476][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.50.15:165][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.50.15:209][975]LogSavePackage: Save=38.37ms
+[2019.02.16-13.50.15:209][975]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet4EAC6DE944401E161D4A7AB5D1202B9E.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.50.15:211][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.50.17:772][245]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.50.53:144][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.50.53:188][178]LogSavePackage: Save=39.80ms
+[2019.02.16-13.50.53:188][178]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetFE91AA5F42CE3603E01F35ACFC2DAB03.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.50.53:190][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.50.53:962][259]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.51.10:607][182]Cmd: MODE GRID=1
+[2019.02.16-13.51.26:287][994]Cmd: MODE GRID=0
+[2019.02.16-13.51.27:179][ 93]Cmd: MODE GRID=1
+[2019.02.16-13.52.02:753][180]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.52.02:950][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.52.02:993][180]LogSavePackage: Save=38.17ms
+[2019.02.16-13.52.02:993][180]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetF244075344C04485432C919450452701.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.52.02:995][180]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.54.26:060][425]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.54.26:258][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.54.26:303][425]LogSavePackage: Save=39.65ms
+[2019.02.16-13.54.26:303][425]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet1C2F069D45D598F09CB2EAB2864B8C13.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.54.26:305][425]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.54.40:890][151]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.55.20:802][ 86]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.55.20:994][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.55.21:035][ 86]LogSavePackage: Save=37.16ms
+[2019.02.16-13.55.21:035][ 86]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet2C1B68EF4F33B6BDEE1BF9A34D381C37.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.55.21:037][ 86]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.55.39:890][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.55.39:932][222]LogSavePackage: Save=37.34ms
+[2019.02.16-13.55.39:932][222]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetF71228B9491C8259CC228C9A801365B3.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.55.39:934][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.55.40:501][285]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.56.11:631][965]Cmd: MODE SCALEGRID=1
+[2019.02.16-13.56.21:912][190]Cmd: MODE SCALEGRID=0
+[2019.02.16-13.56.22:794][295]Cmd: MODE SCALEGRID=1
+[2019.02.16-13.56.44:616][819]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.56.44:807][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.56.44:849][819]LogSavePackage: Save=37.43ms
+[2019.02.16-13.56.44:849][819]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet4E7F1AA94E614FF30BD4048D838A5445.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.56.44:851][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.59.15:888][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.59.16:191][992]LogSavePackage: Save=299.34ms
+[2019.02.16-13.59.16:191][992]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet2E8FA5B1421B2B637E2267BDC3E589E1.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.59.16:193][992]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.59.16:697][ 51]BlueprintLog: New page: Compile Planet
+[2019.02.16-13.59.28:442][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-13.59.28:549][409]LogSavePackage: Save=102.59ms
+[2019.02.16-13.59.28:549][409]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetB5A03E924DA442C7001934BFD0438231.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-13.59.28:550][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-13.59.37:784][499]LogEditorViewport: Clicking on Actor (LMB): TriangleMesh_C (TriangleMesh)
+[2019.02.16-13.59.38:467][579]Cmd: DELETE
+[2019.02.16-13.59.38:467][579]Cmd: ACTOR DELETE
+[2019.02.16-13.59.38:483][579]LogEditorActor: Deleted Actor: TriangleMesh_C
+[2019.02.16-13.59.38:497][579]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2019.02.16-13.59.40:212][784]LogEditorViewport: Clicking on Actor (LMB): Planet_C (Planet)
+[2019.02.16-13.59.45:577][412]LogSavePackage: Save=27.57ms
+[2019.02.16-13.59.45:577][412]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Minimal_DefaultDD5EF4014AC203367136D28D6E75BC43.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.16-13.59.45:579][412]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/StarterContent/Maps/Minimal_Default.umap
+[2019.02.16-13.59.45:656][412]LogSavePackage: Save=39.97ms
+[2019.02.16-13.59.45:656][412]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Minimal_Default_BuiltDataE8259CED45D042CC8B084E986562E22E.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.02.16-13.59.45:660][412]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2019.02.16-14.00.12:846][584]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.00.51:583][445]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.00.51:656][445]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.00.51:708][445]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.00.51:775][445]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.00.51:775][445]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.00.51:775][445]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.00.51:776][445]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.00.51:789][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.00.51:838][445]LogSavePackage: Save=45.41ms
+[2019.02.16-14.00.51:838][445]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetE939717A4730F7092E1BE8B347FD72F8.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.00.51:840][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.09.45:443][137]LogSavePackage: Save=27.38ms
+[2019.02.16-14.09.45:443][137]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Minimal_Default_Auto42F6F8F874101AA9355554493CDF84F0F.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2019.02.16-14.09.45:444][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap
+[2019.02.16-14.09.45:445][137]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.050
+[2019.02.16-14.09.45:445][137]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.050
+[2019.02.16-14.15.19:411][ 96]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.15.19:481][ 96]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.15.19:534][ 96]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.15.19:603][ 96]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.15.19:604][ 96]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.15.42:747][680]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.15.42:817][680]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.15.42:869][680]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_C_0] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.000 Z=0.0000
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.000 Z=0.0001
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.000 Z=0.0002
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.000 Z=0.0003
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.0004
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.0005
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.0006
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.0007
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=-1.0008
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=1.0009
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=-1.00010
+[2019.02.16-14.15.42:937][680]LogBlueprintUserMessages: [Planet_305] X=-0.000 Y=0.000 Z=1.00011
+[2019.02.16-14.15.42:950][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.15.43:002][680]LogSavePackage: Save=47.58ms
+[2019.02.16-14.15.43:002][680]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet0FFE70A44718A351555768A4FDA94AF1.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.15.43:004][680]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.16.32:096][361]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=1.172 Z=0.0000
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=1.172 Z=0.0001
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-1.172 Z=0.0002
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-1.172 Z=0.0003
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=1.1724
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=1.1725
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-1.1726
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-1.1727
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=1.172 Y=0.000 Z=-1.0008
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=1.172 Y=0.000 Z=1.0009
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=-1.172 Y=0.000 Z=-1.00010
+[2019.02.16-14.16.32:170][361]LogBlueprintUserMessages: [Planet_C_0] X=-1.172 Y=0.000 Z=1.00011
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=1.172 Z=0.0000
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=1.172 Z=0.0001
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-1.172 Z=0.0002
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-1.172 Z=0.0003
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=1.1724
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=1.1725
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-1.1726
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-1.1727
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=1.172 Y=0.000 Z=-1.0008
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=1.172 Y=0.000 Z=1.0009
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=-1.172 Y=0.000 Z=-1.00010
+[2019.02.16-14.16.32:228][361]LogBlueprintUserMessages: [Planet_305] X=-1.172 Y=0.000 Z=1.00011
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=1.172 Z=0.0000
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=1.172 Z=0.0001
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-1.172 Z=0.0002
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-1.172 Z=0.0003
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=1.1724
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=1.1725
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-1.1726
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-1.1727
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=1.172 Y=0.000 Z=-1.0008
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=1.172 Y=0.000 Z=1.0009
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=-1.172 Y=0.000 Z=-1.00010
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_C_0] X=-1.172 Y=0.000 Z=1.00011
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=1.172 Z=0.0000
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=1.172 Z=0.0001
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-1.172 Z=0.0002
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-1.172 Z=0.0003
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=1.1724
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=1.1725
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-1.1726
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-1.1727
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_305] X=1.172 Y=0.000 Z=-1.0008
+[2019.02.16-14.16.32:299][361]LogBlueprintUserMessages: [Planet_305] X=1.172 Y=0.000 Z=1.0009
+[2019.02.16-14.16.32:300][361]LogBlueprintUserMessages: [Planet_305] X=-1.172 Y=0.000 Z=-1.00010
+[2019.02.16-14.16.32:300][361]LogBlueprintUserMessages: [Planet_305] X=-1.172 Y=0.000 Z=1.00011
+[2019.02.16-14.16.32:313][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.16.32:365][361]LogSavePackage: Save=48.45ms
+[2019.02.16-14.16.32:365][361]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet6F710C29411740F1A4B12FA9EED5E82A.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.16.32:368][361]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.17.37:421][327]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.0000
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.0001
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.0002
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.0003
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.6184
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.6185
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.6186
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.6187
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.0008
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.0009
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.00010
+[2019.02.16-14.17.37:490][327]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.00011
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.0000
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.0001
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.0002
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.0003
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.6184
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.6185
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.6186
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.6187
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.0008
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.0009
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.00010
+[2019.02.16-14.17.37:546][327]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.00011
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.0000
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.0001
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.0002
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.0003
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.6184
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.6185
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.6186
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.6187
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.0008
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.0009
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.00010
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.00011
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.0000
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.0001
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.0002
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.0003
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.6184
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.6185
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.6186
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.6187
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.0008
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.0009
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.00010
+[2019.02.16-14.17.37:625][327]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.00011
+[2019.02.16-14.17.37:639][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.17.37:691][327]LogSavePackage: Save=46.91ms
+[2019.02.16-14.17.37:691][327]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetACBCB18346CC80AAC8ECCA8F8ABB6FA0.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.17.37:693][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.18.18:450][591]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.18.18:520][591]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.18:520][591]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.18:520][591]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.18:520][591]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.18:521][591]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.18.18:521][591]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.18.18:521][591]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.18.18:521][591]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.18.18:521][591]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.18:521][591]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.18:521][591]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.18:521][591]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.18:573][591]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.18:641][591]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.18:642][591]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.18:654][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.18.18:703][591]LogSavePackage: Save=44.48ms
+[2019.02.16-14.18.18:703][591]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet31FF8F204F64465A824E2CA4F0339E6C.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.18.18:705][591]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.23:546][152]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.24:860][299]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.18.24:930][299]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.24:931][299]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.24:983][299]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.25:052][299]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.18.25:053][299]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.18.25:065][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.18.25:112][299]LogSavePackage: Save=42.72ms
+[2019.02.16-14.18.25:112][299]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet7028C87E4B7B048FBB2749BD16C1394C.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.18.25:114][299]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.19.34:695][266]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.19.34:765][266]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.19.34:817][266]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.19.34:887][266]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.19.34:887][266]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.19.34:888][266]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.19.34:900][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.19.34:947][266]LogSavePackage: Save=42.28ms
+[2019.02.16-14.19.34:947][266]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet219698FC408AD489B915AD957B75B4D8.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.19.34:949][266]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.20.07:504][255]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.20.07:571][255]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.20.07:571][255]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.20.07:571][255]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.20.07:571][255]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.20.07:571][255]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.20.07:571][255]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.20.07:572][255]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.20.07:572][255]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.20.07:572][255]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.20.07:572][255]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.20.07:572][255]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.20.07:572][255]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.20.07:623][255]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.20.07:691][255]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.20.07:692][255]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.20.07:704][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.20.07:744][255]LogSavePackage: Save=35.45ms
+[2019.02.16-14.20.07:744][255]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetE7BB991E43E3716FC38524B84011BD7A.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.20.07:746][255]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.21.48:923][407]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.21.48:991][407]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.21.48:992][407]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.21.49:043][407]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.21.49:113][407]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.21.49:114][407]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.21.49:129][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.21.49:167][407]LogSavePackage: Save=33.27ms
+[2019.02.16-14.21.49:167][407]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet03860A844647C14A2DC956810C6E23E9.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.21.49:169][407]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.22.20:995][962]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.22.21:060][962]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.21:060][962]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.21:060][962]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.21:060][962]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.21:060][962]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.22.21:060][962]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.22.21:060][962]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.22.21:060][962]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.22.21:060][962]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.21:061][962]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.21:061][962]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.21:061][962]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.21:113][962]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.21:113][962]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.21:113][962]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.21:113][962]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.21:114][962]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.22.21:114][962]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.22.21:114][962]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.22.21:114][962]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.22.21:114][962]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.21:114][962]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.21:114][962]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.21:114][962]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.21:181][962]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.21:182][962]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.21:195][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.22.21:231][962]LogSavePackage: Save=32.57ms
+[2019.02.16-14.22.21:232][962]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet19284B1B4698BD97640CDCB5C83B848F.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.22.21:233][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.22.29:025][851]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.29:025][851]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.29:025][851]LogBlueprintUserMessages: [Planet_C_0] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.29:025][851]LogBlueprintUserMessages: [Planet_C_0] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.29:025][851]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.22.29:025][851]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.22.29:025][851]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.22.29:025][851]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.22.29:025][851]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_C_0] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_C_0] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=0.618 Z=0.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=-1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=1.000 Y=-0.618 Z=0.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=0.618
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=0.618
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=-1.000 Z=-0.618
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=1.000 Z=-0.618
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=-1.000
+[2019.02.16-14.22.29:026][851]LogBlueprintUserMessages: [Planet_305] X=-0.618 Y=0.000 Z=1.000
+[2019.02.16-14.22.36:447][702]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.22.36:510][702]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.22.36:562][702]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.22.36:631][702]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.22.36:631][702]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.22.36:642][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.22.36:673][702]LogSavePackage: Save=27.26ms
+[2019.02.16-14.22.36:674][702]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet64B903F74070033C453B9CAF725EC750.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.22.36:676][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.23.00:311][409]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.23.00:311][409]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.23.01:475][542]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.23.01:541][542]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.23.01:593][542]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.23.01:660][542]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.23.01:660][542]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.23.01:673][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.23.01:829][542]LogSavePackage: Save=152.67ms
+[2019.02.16-14.23.01:829][542]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetB7B3092B4AB910F8F8DB9293BDA6BC9B.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.23.01:831][542]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.23.41:762][258]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.23.41:762][258]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.24.47:432][ 28]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.24.47:495][ 28]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.24.47:550][ 28]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.24.47:618][ 28]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.24.47:618][ 28]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.24.47:632][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.24.47:667][ 28]LogSavePackage: Save=30.16ms
+[2019.02.16-14.24.47:667][ 28]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet69F359EB44BBEBDD3CAC47840C20A0CC.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.24.47:669][ 28]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.25.09:230][584]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.25.09:293][584]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.09:344][584]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.09:412][584]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.09:412][584]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.09:424][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.25.09:458][584]LogSavePackage: Save=29.35ms
+[2019.02.16-14.25.09:458][584]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet3C08C188484D3EB8E464DC83016F1876.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.25.09:460][584]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.25.16:197][370]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.25.16:260][370]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.16:312][370]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.16:381][370]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.16:381][370]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.16:394][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.25.16:426][370]LogSavePackage: Save=28.93ms
+[2019.02.16-14.25.16:426][370]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet6D8DED29453240F1C2CF149D68633A30.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.25.16:428][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.25.29:521][923]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.25.29:585][923]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000:
+[2019.02.16-14.25.29:637][923]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000:
+[2019.02.16-14.25.29:705][923]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000:
+[2019.02.16-14.25.29:705][923]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000:
+[2019.02.16-14.25.29:718][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.25.29:752][923]LogSavePackage: Save=29.64ms
+[2019.02.16-14.25.29:752][923]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet2940D23F44D5393DD9FF7790CF24C1AA.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.25.29:754][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.25.48:202][107]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000:
+[2019.02.16-14.25.48:203][107]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000:
+[2019.02.16-14.25.51:402][485]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000:
+[2019.02.16-14.25.51:403][485]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000:
+[2019.02.16-14.25.56:700][108]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.25.56:764][108]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.56:816][108]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.56:885][108]LogBlueprintUserMessages: [Planet_C_0] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.56:885][108]LogBlueprintUserMessages: [Planet_305] X=0.000 Y=0.000 Z=0.000
+[2019.02.16-14.25.56:899][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.25.56:931][108]LogSavePackage: Save=28.24ms
+[2019.02.16-14.25.56:931][108]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetEF4D2ECF434B9AE92F2094B292F20CAC.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.25.56:933][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.26.24:430][389]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.26.24:626][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.26.24:659][389]LogSavePackage: Save=28.38ms
+[2019.02.16-14.26.24:659][389]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet6FEAC2844DA3F541F9EAED9692B21ED6.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.26.24:661][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.26.27:803][755]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.26.27:998][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.26.28:031][755]LogSavePackage: Save=28.09ms
+[2019.02.16-14.26.28:031][755]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet83294DE945E844DA83DDB2A7C73AE3F9.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.26.28:033][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.26.48:231][ 93]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.26.48:296][ 93]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.26.48:348][ 93]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.26.48:417][ 93]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.26.48:417][ 93]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.26.48:429][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.26.48:461][ 93]LogSavePackage: Save=27.52ms
+[2019.02.16-14.26.48:461][ 93]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet1AC5F33E454BDA69017C3890874DB7EC.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.26.48:463][ 93]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.26.53:077][640]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.26.53:141][640]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.26.53:193][640]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.26.53:265][640]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.26.53:265][640]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.07:644][347]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.27.07:709][347]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.07:761][347]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.07:829][347]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.07:829][347]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.07:841][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.27.07:874][347]LogSavePackage: Save=27.78ms
+[2019.02.16-14.27.07:874][347]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetB167EB4345E35BCAAE15288B09688BB2.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.27.07:876][347]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.27.18:257][571]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.27.18:314][571]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.18:372][571]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.18:442][571]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.18:442][571]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.18:455][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.27.18:472][571]LogSavePackage: Save=13.02ms
+[2019.02.16-14.27.18:472][571]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetFE2ED3E244ABD068A1E7F0BB5B06541F.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.27.18:474][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.27.35:143][537]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.35:143][537]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.36:286][672]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.27.36:344][672]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.36:396][672]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.36:466][672]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.36:466][672]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.36:480][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.27.36:498][672]LogSavePackage: Save=13.78ms
+[2019.02.16-14.27.36:498][672]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet41A9E8354527CC21CD01378B0BE56EDE.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.27.36:500][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.27.53:055][643]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.27.53:115][643]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.53:165][643]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.53:234][643]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.53:234][643]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.53:248][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.27.53:266][643]LogSavePackage: Save=13.52ms
+[2019.02.16-14.27.53:266][643]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet4C2E5EA946F195AD4802B880AFF3A958.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.27.53:268][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.27.54:137][745]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.27.54:195][745]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.54:247][745]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.54:314][745]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.54:315][745]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.54:697][789]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.27.54:757][789]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.54:809][789]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.54:876][789]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.54:876][789]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.55:218][828]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.27.55:275][828]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.55:327][828]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.55:395][828]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.55:395][828]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.55:703][863]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.27.55:762][863]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.55:813][863]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.27.55:881][863]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.27.55:881][863]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.28.18:731][567]LogSlate: Took 0.015350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.02.16-14.28.32:852][ 96]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.28.32:913][ 96]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.28.32:964][ 96]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.28.33:033][ 96]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.28.33:033][ 96]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.28.42:100][170]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.28.42:159][170]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.28.42:211][170]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.28.42:279][170]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.28.42:280][170]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.28.42:292][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.28.42:309][170]LogSavePackage: Save=13.02ms
+[2019.02.16-14.28.42:309][170]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet190BA28E4AC101533461E49367404D13.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.28.42:311][170]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.28.53:211][472]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.28.53:269][472]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.28.53:321][472]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.28.53:389][472]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.28.53:390][472]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.29.01:396][424]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.29.01:457][424]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.29.01:510][424]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.29.01:578][424]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.29.01:579][424]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.29.01:591][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.29.01:608][424]LogSavePackage: Save=13.01ms
+[2019.02.16-14.29.01:608][424]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet4EE13AC14CBFF06EBABEDBB3949282DA.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.29.01:610][424]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.29.04:173][729]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.29.04:230][729]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.29.04:282][729]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.29.04:350][729]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.29.04:351][729]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.29.05:742][894]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.29.05:800][894]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.29.05:853][894]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.29.05:922][894]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.29.05:923][894]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.29.06:601][973]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.29.06:657][973]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.29.06:710][973]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.29.06:778][973]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.29.06:778][973]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.29.48:883][  1]LogSavePackage: Save=27.30ms
+[2019.02.16-14.29.48:883][  1]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Minimal_Default_Auto5E8ABAA3B40646648B92A8B8CB6BBCEC4.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2019.02.16-14.29.49:193][  1]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap
+[2019.02.16-14.29.49:195][  1]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.356
+[2019.02.16-14.29.49:195][  1]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.356
+[2019.02.16-14.30.22:602][993]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.30.22:603][993]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.30.22:606][993]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.30.22:606][993]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.30.25:195][289]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.30.25:254][289]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.30.25:307][289]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.30.25:376][289]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.30.25:376][289]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.30.25:390][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.30.25:404][289]LogSavePackage: Save=10.45ms
+[2019.02.16-14.30.25:404][289]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet4ED253334BC49EB51890ACBE2C3A0BA4.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.30.25:406][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.30.28:169][618]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.30.28:226][618]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.30.28:279][618]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.30.28:349][618]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.30.28:350][618]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.31.50:618][702]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.31.50:814][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.31.50:829][702]LogSavePackage: Save=10.24ms
+[2019.02.16-14.31.50:829][702]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetF64E5D4949AFBD901E0626A2A8AAAA2D.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.31.50:832][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.31.52:101][852]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.31.53:259][968]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.31.53:930][ 25]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.31.59:330][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.31.59:344][647]LogSavePackage: Save=10.12ms
+[2019.02.16-14.31.59:345][647]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet098FC58B449398AD96B013BE718E81A8.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.31.59:346][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.32.02:168][984]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.32.33:276][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.32.33:291][658]LogSavePackage: Save=10.34ms
+[2019.02.16-14.32.33:291][658]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet2590501F4DAD9CAAD30981B78B609BE9.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.32.33:293][658]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.32.34:423][792]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.32.52:912][869]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.32.56:946][326]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.13:173][197]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.13:353][197]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.13:353][197]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.15:296][422]LogSlate: Took 0.028625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.02.16-14.33.18:303][781]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.18:480][781]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.18:481][781]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.19:671][921]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.19:847][921]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.19:847][921]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.20:217][963]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.20:395][963]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.20:395][963]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.20:604][986]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.20:782][986]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.20:782][986]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.20:808][987]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.21:233][ 13]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.21:409][ 13]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.21:410][ 13]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.21:733][ 50]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.21:911][ 50]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.21:911][ 50]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.22:247][ 88]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.22:424][ 88]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.22:425][ 88]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.28:316][785]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.33.28:496][785]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.28:496][785]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (VisualLoggerRenderingActor)
+[2019.02.16-14.33.28:509][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.33.28:522][785]LogSavePackage: Save=9.69ms
+[2019.02.16-14.33.28:523][785]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetE7926D70408555F852B33AB657A093FD.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.33.28:525][785]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.33.30:366][  0]LogVisualLogger: Display: SVisualLogger::OnFiltersChanged: 10.41ms
+[2019.02.16-14.33.31:104][ 87]LogVisualLogger: Display: SVisualLogger::OnFiltersChanged: 10.90ms
+[2019.02.16-14.35.20:463][865]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.35.20:522][865]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.35.20:577][865]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.35.20:646][865]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.35.20:646][865]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.35.20:659][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.35.20:675][865]LogSavePackage: Save=11.23ms
+[2019.02.16-14.35.20:675][865]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetF57DB55743C79DF3ECD0228F6A063848.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.35.20:678][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.35.23:924][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.16-14.35.23:938][250]LogSavePackage: Save=9.89ms
+[2019.02.16-14.35.23:938][250]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet56ED51D44D154A13CDD1B68A84DE4E79.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.16-14.35.23:939][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset
+[2019.02.16-14.35.30:170][994]BlueprintLog: New page: Compile Planet
+[2019.02.16-14.35.30:227][994]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.35.30:279][994]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.35.30:347][994]LogBlueprintUserMessages: [Planet_C_0] Hello
+[2019.02.16-14.35.30:347][994]LogBlueprintUserMessages: [Planet_305] Hello
+[2019.02.16-14.35.36:839][575]LogSavePackage: Save=26.69ms
+[2019.02.16-14.35.36:839][575]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Minimal_Default3BAC454B4EE3632930C05A81055D043B.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.16-14.35.36:842][575]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/StarterContent/Maps/Minimal_Default.umap
+[2019.02.16-14.35.36:853][575]LogFileHelpers: Saving map 'Minimal_Default' took 0.107
+[2019.02.16-14.35.36:933][575]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.16-14.35.37:142][576]Cmd: QUIT_EDITOR
+[2019.02.16-14.35.38:145][576]LogExit: Preparing to exit.
+[2019.02.16-14.35.39:248][576]LogDirectoryWatcher: A directory notification failed for 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/', and we were unable to create a new request.
+[2019.02.16-14.35.39:322][576]LogExit: Editor shut down
+[2019.02.16-14.35.39:344][576]LogExit: Transaction tracking system shut down
+[2019.02.16-14.35.39:545][576]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.02.16-14.35.39:545][576]LogDirectoryWatcher: A directory notification for '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/' was aborted.
+[2019.02.16-14.35.39:545][576]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.02.16-14.35.39:545][576]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.02.16-14.35.39:545][576]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.02.16-14.35.39:629][576]LogExit: Object subsystem successfully closed.
+[2019.02.16-14.35.39:649][576]LogD3D11RHI: Shutdown
+[2019.02.16-14.35.39:649][576]LogD3D11RHI: CleanupD3DDevice
+[2019.02.16-14.35.39:720][576]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.16-14.35.39:756][576]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (536)
+[2019.02.16-14.35.39:756][576]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2019.02.16-14.35.39:756][576]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2019.02.16-14.35.39:756][576]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2019.02.16-14.35.39:756][576]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2019.02.16-14.35.39:756][576]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2019.02.16-14.35.39:756][576]LogDirectoryWatcher: A directory notification for 'D:/Software/UnrealEngine/UE_4.17/FeaturePacks/' was aborted.
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2019.02.16-14.35.39:762][576]LogDirectoryWatcher: A directory notification for 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Collections/' was aborted.
+[2019.02.16-14.35.39:762][576]LogDirectoryWatcher: A directory notification for 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Developers/GENOM/Collections/' was aborted.
+[2019.02.16-14.35.39:762][576]LogDirectoryWatcher: A directory notification for 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Collections/' was aborted.
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module Media (477)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2019.02.16-14.35.39:762][576]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2019.02.16-14.35.39:763][576]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2019.02.16-14.35.39:913][576]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2019.02.16-14.35.39:914][576]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2019.02.16-14.35.39:914][576]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2019.02.16-14.35.39:914][576]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2019.02.16-14.35.39:914][576]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2019.02.16-14.35.39:914][576]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2019.02.16-14.35.39:914][576]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2019.02.16-14.35.39:914][576]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2019.02.16-14.35.39:969][576]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2019.02.16-14.35.39:969][576]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2019.02.16-14.35.39:969][576]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2019.02.16-14.35.39:969][576]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2019.02.16-14.35.39:969][576]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2019.02.16-14.35.39:969][576]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2019.02.16-14.35.39:969][576]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2019.02.16-14.35.39:969][576]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2019.02.16-14.35.39:969][576]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2019.02.16-14.35.39:969][576]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2019.02.16-14.35.39:975][576]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2019.02.16-14.35.40:068][576]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2019.02.16-14.35.40:069][576]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2019.02.16-14.35.40:070][576]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2019.02.16-14.35.40:070][576]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2019.02.16-14.35.40:070][576]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2019.02.16-14.35.40:070][576]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2019.02.16-14.35.40:070][576]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2019.02.16-14.35.40:070][576]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2019.02.16-14.35.40:070][576]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2019.02.16-14.35.40:070][576]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2019.02.16-14.35.40:170][576]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2019.02.16-14.35.40:271][576]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2019.02.16-14.35.40:271][576]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2019.02.16-14.35.40:271][576]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2019.02.16-14.35.40:271][576]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2019.02.16-14.35.40:271][576]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2019.02.16-14.35.40:271][576]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2019.02.16-14.35.40:272][576]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2019.02.16-14.35.40:272][576]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2019.02.16-14.35.40:272][576]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2019.02.16-14.35.40:272][576]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2019.02.16-14.35.40:274][576]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module Core (168)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2019.02.16-14.35.40:276][576]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2019.02.16-14.35.40:280][576]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2019.02.16-14.35.40:327][576]LogDerivedDataCache: Shutdown
+[2019.02.16-14.35.40:327][576]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2019.02.16-14.35.40:327][576]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2019.02.16-14.35.40:327][576]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2019.02.16-14.35.40:327][576]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2019.02.16-14.35.40:327][576]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2019.02.16-14.35.40:327][576]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2019.02.16-14.35.40:327][576]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2019.02.16-14.35.40:327][576]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2019.02.16-14.35.40:327][576]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2019.02.16-14.35.40:327][576]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.02.16-14.35.40:328][576]LogOnline: Display: Unloading online subsystem: NULL
+[2019.02.16-14.35.40:328][576]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.02.16-14.35.40:329][576]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.02.16-14.35.40:329][576]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.16-14.35.40:329][576]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC0EF970D-4875-88EF-71D9-8192285FE174%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=f3d8047f4d5de87a61b662bf187d8438%7Cbbe00aada9074c3ca612a1cc2aee7827%7C6686b856-d3e6-41b7-8c5d-1c1bbcd2f03b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.16-14.35.40:331][576]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.02.16-14.35.40:332][576]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.16-14.35.40:332][576]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.16-14.35.40:332][576]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.16-14.35.40:332][576]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.16-14.35.40:333][576]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.16-14.35.40:333][576]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.16-14.35.40:333][576]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.16-14.35.40:335][576]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.16-14.35.40:337][576]LogExit: Exiting.
+[2019.02.16-14.35.40:453][576]Log file closed, 02/16/19 15:35:40
