@@ -1,0 +1,823 @@
+﻿Log file open, 02/18/19 22:18:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProceduralGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.265976
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.068s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=mansartesteban -epicuserid=bbe00aada9074c3ca612a1cc2aee7827 -epiclocale=fr-FR
+LogInit: Base Directory: D:/Software/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Engine.ini]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Engine.ini]
+[2019.02.18-21.18.44:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Engine.ini]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Engine.ini]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.18-21.18.44:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Engine.ini]
+[2019.02.18-21.18.44:934][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Engine.ini]
+[2019.02.18-21.18.44:939][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.18-21.18.44:939][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.18-21.18.44:940][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.18-21.18.44:940][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.18-21.18.44:940][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.18-21.18.44:945][  0]LogHAL: Display: Platform has ~ 16 GB [17129979904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.18-21.18.44:945][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.18-21.18.44:945][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.18-21.18.44:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Scalability.ini]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.18-21.18.44:946][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.18-21.18.44:946][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Config/Windows/Engine.ini]
+[2019.02.18-21.18.44:946][  0]LogInit: Computer: DESKTOP-9LVK4B6
+[2019.02.18-21.18.44:946][  0]LogInit: User: GENOM
+[2019.02.18-21.18.44:946][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.18-21.18.44:946][  0]LogInit: High frequency timer resolution =4.101565 MHz
+[2019.02.18-21.18.44:947][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.02.18-21.18.44:947][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.18-21.18.44:947][  0]LogMemory: Process Physical Memory: 103.16 MB used, 103.16 MB peak
+[2019.02.18-21.18.44:947][  0]LogMemory: Process Virtual Memory: 93.48 MB used, 93.48 MB peak
+[2019.02.18-21.18.44:947][  0]LogMemory: Physical Memory: 5728.11 MB used,  10608.31 MB free, 16336.42 MB total
+[2019.02.18-21.18.44:947][  0]LogMemory: Virtual Memory: 4635.74 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.02.18-21.18.44:962][  0]LogInit: Using OS detected language (fr-FR).
+[2019.02.18-21.18.44:962][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.02.18-21.18.44:963][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.02.18-21.18.44:965][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2019.02.18-21.18.44:965][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.18-21.18.44:987][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.18-21.18.44:987][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.18-21.18.45:159][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.18-21.18.45:159][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.18-21.18.45:198][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.02.18-21.18.45:198][  0]LogD3D11RHI:       8086/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.18-21.18.45:200][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.18-21.18.45:200][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.18-21.18.45:200][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.18-21.18.45:206][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.18-21.18.45:206][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.18-21.18.45:206][  0]LogWindows: EnumDisplayDevices:
+[2019.02.18-21.18.45:206][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.02.18-21.18.45:206][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.02.18-21.18.45:206][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.02.18-21.18.45:207][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.02.18-21.18.45:207][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.18-21.18.45:207][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.02.18-21.18.45:207][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.02.18-21.18.45:207][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.02.18-21.18.45:207][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2019.02.18-21.18.45:230][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.18-21.18.45:240][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.02.18-21.18.45:524][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.18-21.18.45:534][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.18-21.18.45:543][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.18-21.18.45:552][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.18-21.18.45:562][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.18-21.18.45:572][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.18-21.18.45:581][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.18-21.18.45:591][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.18-21.18.45:595][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:650][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.18-21.18.45:651][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.18-21.18.45:703][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.18-21.18.45:703][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.18-21.18.45:719][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.18-21.18.45:719][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.18-21.18.45:728][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.18-21.18.45:737][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.18-21.18.45:746][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.18-21.18.45:756][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.18-21.18.45:787][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.18-21.18.45:787][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.18-21.18.45:787][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.18-21.18.45:831][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Intermediate/Shaders/WorkingDirectory/4048/).
+[2019.02.18-21.18.45:831][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/GENOM/AppData/Local/Temp/UnrealShaderWorkingDir/0ADF63EB4DECC8FF80D7E5ACD086C755/'.
+[2019.02.18-21.18.45:833][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.18-21.18.45:833][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.18-21.18.45:833][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.18-21.18.46:228][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.18-21.18.46:279][  0]LogDerivedDataCache: Loaded boot cache 0.05s 86MB C:/Users/GENOM/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.18-21.18.46:280][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/GENOM/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.18-21.18.46:280][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.18-21.18.46:280][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.18-21.18.46:280][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.18-21.18.46:280][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.18-21.18.46:289][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.18-21.18.46:290][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.18-21.18.46:290][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.18-21.18.46:301][  0]LogDerivedDataCache: Using Local data cache path C:/Users/GENOM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.18-21.18.46:301][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.18-21.18.46:301][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.18-21.18.46:318][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.18-21.18.46:319][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.18-21.18.46:319][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.18-21.18.46:397][  0]LogAssetRegistry: FAssetRegistry took 0.0310 seconds to start up
+[2019.02.18-21.18.46:643][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.18-21.18.46:751][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.18-21.18.46:754][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.18-21.18.46:754][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.18-21.18.46:754][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.18-21.18.46:754][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.18-21.18.46:763][  0]LogNetVersion: ProceduralGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 332005985)
+[2019.02.18-21.18.47:177][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.081553 seconds
+[2019.02.18-21.18.47:183][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.18-21.18.47:183][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.18-21.18.47:183][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.18-21.18.47:904][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.18-21.18.47:916][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.18-21.18.48:512][  0]SourceControl: Source control is disabled
+[2019.02.18-21.18.48:512][  0]SourceControl: Source control is disabled
+[2019.02.18-21.18.48:513][  0]SourceControl: Source control is disabled
+[2019.02.18-21.18.48:514][  0]SourceControl: Source control is disabled
+[2019.02.18-21.18.48:669][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.18-21.18.48:727][  0]LogOcInput: OculusInput pre-init called
+[2019.02.18-21.18.48:848][  0]LogEngine: Initializing Engine...
+[2019.02.18-21.18.48:848][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.18-21.18.48:849][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.18-21.18.48:849][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.18-21.18.48:849][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.18-21.18.48:849][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.18-21.18.49:023][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.18-21.18.49:032][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.18-21.18.49:088][  0]LogInit: XAudio2 using 'Casque pour téléphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.02.18-21.18.49:205][  0]LogInit: FAudioDevice initialized.
+[2019.02.18-21.18.49:205][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.18-21.18.49:251][  0]LogDerivedDataCache: Saved boot cache 0.05s 86MB C:/Users/GENOM/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.18-21.18.49:257][  0]LogInit: Texture streaming: Enabled
+[2019.02.18-21.18.49:271][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.18-21.18.49:281][  0]LogInit: Transaction tracking system initialized
+[2019.02.18-21.18.49:298][  0]BlueprintLog: New page: Editor Load
+[2019.02.18-21.18.49:366][  0]LocalizationService: Localization service is disabled
+[2019.02.18-21.18.49:678][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/' took 0.01s
+[2019.02.18-21.18.49:678][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.18-21.18.49:678][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.18-21.18.49:678][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.18-21.18.49:678][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.18-21.18.49:678][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.18-21.18.49:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.18-21.18.49:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.18-21.18.49:775][  0]SourceControl: Source control is disabled
+[2019.02.18-21.18.49:857][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.18-21.18.49:859][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.18-21.18.54:311][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.02.18-21.18.54:311][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.18-21.18.54:313][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.18-21.18.56:001][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.02.18-21.18.56:001][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.18-21.18.56:002][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.18-21.18.56:061][  0]Cmd: MAP LOAD FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.18-21.18.56:062][  0]LightingResults: New page: Lighting Build
+[2019.02.18-21.18.56:064][  0]MapCheck: New page: Map Check
+[2019.02.18-21.18.56:064][  0]LightingResults: New page: Lighting Build
+[2019.02.18-21.18.56:190][  0]LogBlueprint: Error: [Compiler Planet] Blueprint Internal Compiler Error: Could not connect default value to input pin  Mid Points Cache
+[2019.02.18-21.18.56:194][  0]LogBlueprint: Error: [Compiler Planet] Default value '' for  Mid Points Cache  is invalid: 'Map inputs (like 'Mid Points Cache') must have an input wired into them (try connecting a MakeMap node).'
+[2019.02.18-21.18.56:195][  0]LogBlueprint: Warning: [Compiler Planet] [0013,02] Compile of Planet failed. 2 Fatal Issue(s) 0 Warning(s) [in 22 ms] (/Game/Procedural/Planet.Planet)
+[2019.02.18-21.18.56:374][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.02.18-21.18.56:374][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.02.18-21.18.56:374][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2019.02.18-21.18.56:374][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2019.02.18-21.18.56:374][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.02.18-21.18.56:374][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.02.18-21.18.56:374][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2019.02.18-21.18.56:374][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.02.18-21.18.56:378][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.18-21.18.56:396][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.18-21.18.56:416][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.18-21.18.56:416][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,119ms to complete.
+[2019.02.18-21.18.56:416][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.355
+[2019.02.18-21.18.56:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.18-21.18.56:667][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.18-21.18.56:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.18-21.18.56:677][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.18-21.18.56:698][  0]LogCollectionManager: Loaded 0 collections in 0.001238 seconds
+[2019.02.18-21.18.56:726][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Collections/' took 0.01s
+[2019.02.18-21.18.56:726][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Developers/GENOM/Collections/' took 0.01s
+[2019.02.18-21.18.56:726][  0]LogFileCache: Scanning file cache for directory 'D:/Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Collections/' took 0.00s
+[2019.02.18-21.18.56:726][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.18-21.18.56:733][  0]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2651 classes and 620 folders.
+[2019.02.18-21.18.56:756][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.18-21.18.56:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.18-21.18.56:869][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.18-21.18.56:910][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.18-21.18.56:981][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-21.18.57:012][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.02.18-21.18.57:042][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.18-21.18.57:042][  0]LogLoad: (Engine Initialization) Total time: 13.87 seconds
+[2019.02.18-21.18.57:043][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.18-21.18.57:124][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.18-21.18.57:125][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.18-21.18.57:150][  0]LogSlate: Took 0.021083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.18-21.18.57:271][  0]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2019.02.18-21.18.57:271][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.18-21.18.57:371][  2]LogAssetRegistry: Asset discovery search completed in 10.9961 seconds
+[2019.02.18-21.18.57:373][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.18-21.18.57:373][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2019.02.18-21.18.58:137][ 83]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.18-21.19.02:853][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.19.03:001][381]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Procedural/Planet.Planet
+[2019.02.18-21.19.03:340][381]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2019.02.18-21.19.04:169][381]LogSlate: Took 0.006310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.18-21.19.04:896][391]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:376).
+[2019.02.18-21.19.32:070][529]LogEditorTransaction: Undo Delete current selection
+[2019.02.18-21.19.32:309][550]LogEditorTransaction: Undo Create Pin Link
+[2019.02.18-21.19.32:489][564]LogEditorTransaction: Undo Move Node
+[2019.02.18-21.19.32:696][584]LogEditorTransaction: Undo Add Node
+[2019.02.18-21.19.33:031][619]LogEditorTransaction: Undo Delete current selection
+[2019.02.18-21.19.33:360][653]LogEditorTransaction: Undo Delete current selection
+[2019.02.18-21.19.47:649][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.19.47:934][313]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet9AE92D7F4137B23B706844A742F5FBB6.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.19.48:276][352]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.19.48:331][352]LogBlueprint: Error: [Compiler Planet] Blueprint Internal Compiler Error: Could not connect default value to input pin  Mid Points Cache
+[2019.02.18-21.19.48:334][352]LogBlueprint: Error: [Compiler Planet] Default value '' for  Mid Points Cache  is invalid: 'Map inputs (like 'Mid Points Cache') must have an input wired into them (try connecting a MakeMap node).'
+[2019.02.18-21.19.48:512][352]LogBlueprint: Warning: [Compiler Planet] [0065,34] Compile of Planet failed. 2 Fatal Issue(s) 0 Warning(s) [in 236 ms] (/Game/Procedural/Planet.Planet)
+[2019.02.18-21.20.06:633][479]LogSlate: Took 0.004197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.18-21.20.13:886][344]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.20.13:942][344]LogBlueprint: Error: [Compiler Planet] Blueprint Internal Compiler Error: Could not connect default value to input pin  Mid Points Cache
+[2019.02.18-21.20.13:945][344]LogBlueprint: Error: [Compiler Planet] Default value '' for  Mid Points Cache  is invalid: 'Map inputs (like 'Mid Points Cache') must have an input wired into them (try connecting a MakeMap node).'
+[2019.02.18-21.20.14:068][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.20.14:148][344]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet971595C34DFF9A798F98C389E566515C.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.20.14:152][344]LogBlueprint: Warning: [Compiler Planet] [0090,98] Compile of Planet failed. 2 Fatal Issue(s) 0 Warning(s) [in 265 ms] (/Game/Procedural/Planet.Planet)
+[2019.02.18-21.21.07:128][632]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.21.07:185][632]LogBlueprint: Error: [Compiler Planet] Blueprint Internal Compiler Error: Could not connect default value to input pin  Mid Points Cache
+[2019.02.18-21.21.07:188][632]LogBlueprint: Error: [Compiler Planet] Default value '' for  Mid Points Cache  is invalid: 'Map inputs (like 'Mid Points Cache') must have an input wired into them (try connecting a MakeMap node).'
+[2019.02.18-21.21.07:188][632]LogBlueprint: Error: [Compiler Planet] The current value of the ' Cache ' pin is invalid: Map inputs (like 'Cache') must have an input wired into them (try connecting a MakeMap node).
+[2019.02.18-21.21.07:188][632]LogBlueprint: Error: [Compiler Planet] The current value of the ' Cache ' pin is invalid: Map inputs (like 'Cache') must have an input wired into them (try connecting a MakeMap node).
+[2019.02.18-21.21.07:188][632]LogBlueprint: Error: [Compiler Planet] The current value of the ' Cache ' pin is invalid: Map inputs (like 'Cache') must have an input wired into them (try connecting a MakeMap node).
+[2019.02.18-21.21.07:311][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.21.07:387][632]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetFBC6C055494EEBEDF221439AD67723BD.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.21.07:390][632]LogBlueprint: Warning: [Compiler Planet] [0144,22] Compile of Planet failed. 5 Fatal Issue(s) 0 Warning(s) [in 262 ms] (/Game/Procedural/Planet.Planet)
+[2019.02.18-21.21.30:931][344]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.21.30:987][344]LogBlueprint: Error: [Compiler Planet] Blueprint Internal Compiler Error: Could not connect default value to input pin  Mid Points Cache
+[2019.02.18-21.21.30:991][344]LogBlueprint: Error: [Compiler Planet] Default value '' for  Mid Points Cache  is invalid: 'Map inputs (like 'Mid Points Cache') must have an input wired into them (try connecting a MakeMap node).'
+[2019.02.18-21.21.31:109][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.21.31:187][344]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetAA34CE0E4A6F79988FAD899B03B2593F.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.21.31:190][344]LogBlueprint: Warning: [Compiler Planet] [0168,02] Compile of Planet failed. 2 Fatal Issue(s) 0 Warning(s) [in 259 ms] (/Game/Procedural/Planet.Planet)
+[2019.02.18-21.21.49:804][537]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.21.49:859][537]LogBlueprint: Error: [Compiler Planet] Blueprint Internal Compiler Error: Could not connect default value to input pin  Mid Points Cache
+[2019.02.18-21.21.49:862][537]LogBlueprint: Error: [Compiler Planet] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2019.02.18-21.21.49:862][537]LogBlueprint: Error: [Compiler Planet] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2019.02.18-21.21.49:863][537]LogBlueprint: Error: [Compiler Planet] Default value '' for  Mid Points Cache  is invalid: 'Map inputs (like 'Mid Points Cache') must have an input wired into them (try connecting a MakeMap node).'
+[2019.02.18-21.21.49:982][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.21.50:057][537]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet1184FFCB454A932655712FA900D03612.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.21.50:060][537]LogBlueprint: Warning: [Compiler Planet] [0186,89] Compile of Planet failed. 4 Fatal Issue(s) 0 Warning(s) [in 257 ms] (/Game/Procedural/Planet.Planet)
+[2019.02.18-21.22.36:975][997]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.22.37:036][997]LogBlueprint: Error: [Compiler Planet] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2019.02.18-21.22.37:036][997]LogBlueprint: Error: [Compiler Planet] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2019.02.18-21.22.37:156][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.22.37:232][997]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet36E522CB48B444A1D8E42FBABCD8E049.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.22.37:235][997]LogBlueprint: Warning: [Compiler Planet] [0234,06] Compile of Planet failed. 2 Fatal Issue(s) 0 Warning(s) [in 259 ms] (/Game/Procedural/Planet.Planet)
+[2019.02.18-21.23.02:052][878]LogSlate: Took 0.020258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.18-21.23.47:555][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.23.47:632][173]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet3AB449E44AB2DA07097134AE7BA5AEDF.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.28.57:491][ 78]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Minimal_Default_Auto17117B8224E069BAAC00AB89F80F9830E.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2019.02.18-21.28.57:492][ 78]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.264
+[2019.02.18-21.28.57:493][ 78]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.264
+[2019.02.18-21.30.13:037][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.30.13:118][788]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetC15567BD4B63F7B0B9B153A05E244212.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.30.17:782][316]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.30.48:668][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.30.57:071][598]Cmd: DELETE
+[2019.02.18-21.30.57:071][598]Cmd: ACTOR DELETE
+[2019.02.18-21.30.57:148][598]LogEditorActor: Deleted Actor: Brush
+[2019.02.18-21.30.57:197][598]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.02.18-21.30.59:133][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.30.59:225][829]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.31.49:412][491]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.31.49:708][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.31.49:812][491]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetEF56959746CAB94D129DB3889BEE2F35.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.32.02:314][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.32.06:009][385]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.32.06:350][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.32.06:429][385]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet7972BAFC438C5E23F1FCDAAB3C9BB7BA.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.32.07:633][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.32.58:428][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.32.58:508][371]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetC2BEE00C4266B2D103A4B1B936FDFBBD.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.32.59:746][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.36.19:513][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.36.19:841][153]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet106887AA406DE61C7B5A3DBA52598343.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.36.27:468][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.36.47:571][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.36.47:652][396]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet4C4E1393488D63A0AAA9C5896379AD65.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.36.49:158][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.37.11:683][196]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.37.11:742][196]LogBlueprint: Error: [Compiler Planet] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2019.02.18-21.37.11:743][196]LogBlueprint: Error: [Compiler Planet] The current value of the ' Vertices ' pin is invalid: Array inputs (like 'Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.11:743][196]LogBlueprint: Error: [Compiler Planet] The current value of the ' Triangles ' pin is invalid: Array inputs (like 'Triangles') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.11:743][196]LogBlueprint: Error: [Compiler Planet] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.11:744][196]LogBlueprint: Error: [Compiler Planet] The current value of the ' Main Vertices ' pin is invalid: Array inputs (like 'Main Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.11:744][196]LogBlueprint: Error: [Compiler Planet] The current value of the ' Main Vertices ' pin is invalid: Array inputs (like 'Main Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.11:744][196]LogBlueprint: Error: [Compiler Planet] The current value of the ' Main Vertices ' pin is invalid: Array inputs (like 'Main Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.11:882][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.37.11:961][196]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet82066DE64B478C94304EE688B5045759.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.37.11:965][196]LogBlueprint: Warning: [Compiler Planet] [1108,79] Compile of Planet failed. 7 Fatal Issue(s) 0 Warning(s) [in 281 ms] (/Game/Procedural/Planet.Planet)
+[2019.02.18-21.37.21:451][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.37.46:737][234]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.37.46:797][234]LogBlueprint: Error: [Compiler Planet] The current value of the ' Vertices ' pin is invalid: Array inputs (like 'Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.46:797][234]LogBlueprint: Error: [Compiler Planet] The current value of the ' Triangles ' pin is invalid: Array inputs (like 'Triangles') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.46:798][234]LogBlueprint: Error: [Compiler Planet] The current value of the ' Main Vertices ' pin is invalid: Array inputs (like 'Main Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.46:799][234]LogBlueprint: Error: [Compiler Planet] The current value of the ' Main Vertices ' pin is invalid: Array inputs (like 'Main Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.46:799][234]LogBlueprint: Error: [Compiler Planet] The current value of the ' Main Vertices ' pin is invalid: Array inputs (like 'Main Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.37.46:924][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.37.47:002][234]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet4CDAB1064EC09A9D50ED19AF4C6071C1.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.37.47:006][234]LogBlueprint: Warning: [Compiler Planet] [1143,83] Compile of Planet failed. 5 Fatal Issue(s) 0 Warning(s) [in 269 ms] (/Game/Procedural/Planet.Planet)
+[2019.02.18-21.37.47:008][234]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-21.38.00:567][841]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.38.00:632][841]LogBlueprint: Error: [Compiler Planet] The current value of the ' Main Vertices ' pin is invalid: Array inputs (like 'Main Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.38.00:632][841]LogBlueprint: Error: [Compiler Planet] The current value of the ' Main Vertices ' pin is invalid: Array inputs (like 'Main Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.38.00:632][841]LogBlueprint: Error: [Compiler Planet] The current value of the ' Main Vertices ' pin is invalid: Array inputs (like 'Main Vertices') must have an input wired into them (try connecting a MakeArray node).
+[2019.02.18-21.38.00:772][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.38.00:855][841]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetEFC9CAFD46949A43E3596494C07C4482.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.38.00:859][841]LogBlueprint: Warning: [Compiler Planet] [1157,69] Compile of Planet failed. 3 Fatal Issue(s) 0 Warning(s) [in 291 ms] (/Game/Procedural/Planet.Planet)
+[2019.02.18-21.38.02:907][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.38.34:204][431]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.38.34:618][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet2_89
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.34:619][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.35:228][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet3_158
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.35:228][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.35:841][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet4_236
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.35:842][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.36:446][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet_305
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.36:446][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.37:012][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Engine/Transient.World_0:PersistentLevel.Planet_C_0
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.37:590][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet5_2
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.37:590][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.38:299][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet2_89
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.38:299][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.38:914][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet3_158
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.38:914][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.39:522][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet4_236
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.39:523][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.40:148][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet_305
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.40:148][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.40:711][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Engine/Transient.World_0:PersistentLevel.Planet_C_0
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.41:276][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet5_2
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.41:276][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.41:899][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet2_89
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.41:899][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.42:502][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet3_158
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.42:502][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.43:114][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet4_236
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.43:114][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.43:734][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet_305
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.43:734][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.44:289][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Engine/Transient.World_0:PersistentLevel.Planet_C_0
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.44:861][431]LogScript: Warning: Runaway loop detected (over 1 000 000 iterations) - see log for stack trace
+	Planet_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Planet5_2
+	Function /Game/Procedural/Planet.Planet_C:ArrayToArrayOfVectors:0168
+[2019.02.18-21.38.44:861][431]PIE: Error: Infinite loop detected. Blueprint:  Planet Function:  Outputs Call Stack:  Show
+[2019.02.18-21.38.45:135][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.38.45:214][431]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetCD54C8964CD3706B1AEED783C046C40B.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.39.05:143][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-21.39.08:294][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-21.39.14:747][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-21.39.16:830][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-21.39.42:492][ 10]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.02.18-21.39.42:496][ 10]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.02.18-21.39.45:462][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.40.11:298][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.40.26:928][887]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.40.27:187][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.40.27:269][887]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet934333D54AB7FCDB1E5BE5BEA33A5480.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.40.34:664][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.40.37:364][ 68]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.40.37:567][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.40.37:650][ 68]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet6EE011774358599710A86EA5075947FE.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.40.43:477][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.41.04:115][167]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.41.04:315][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.41.04:400][167]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet74AA6B2A40AF3C44215C788FF9819C6F.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.41.05:499][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.41.07:737][552]LogEditorViewport: Clicking on Actor (LMB): Planet_C (Planet5)
+[2019.02.18-21.41.15:001][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-21.41.41:845][117]BlueprintLog: New page: Compile Planet
+[2019.02.18-21.41.42:109][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.41.42:190][117]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet3DCCCC2640A59AB9607695AE67667269.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.42.40:052][587]LogEditorTransaction: Undo Create Pin Link
+[2019.02.18-21.42.40:389][608]LogEditorTransaction: Undo Create Pin Link
+[2019.02.18-21.42.40:771][637]LogEditorTransaction: Undo Add Node
+[2019.02.18-21.42.41:177][670]LogEditorTransaction: Undo Delete current selection
+[2019.02.18-21.42.41:571][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-21.42.41:656][702]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet17548FCF45C643E0DF645698D6C2E530.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
+[2019.02.18-21.43.25:144][800]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Minimal_Default_Auto2F6A42FEE47342F89A1DF6786AF18AEB4.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2019.02.18-21.43.25:146][800]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.278
+[2019.02.18-21.43.25:146][800]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.278
+[2019.02.18-22.03.41:091][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-22.03.44:313][888]LogEditorViewport: Clicking on Actor (LMB): Planet_C (Planet)
+[2019.02.18-22.04.45:943][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-22.07.03:378][569]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.02.18-22.07.45:889][295]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Minimal_Default_Auto3D2DB16004F131770B586FEA2E029DDAE.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2019.02.18-22.07.45:891][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.149
+[2019.02.18-22.07.45:891][295]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2019.02.18-22.07.45:892][295]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Procedural/Planet] ([1] browsable assets)...
+[2019.02.18-22.07.45:892][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/Procedural/Planet]
+[2019.02.18-22.07.45:997][295]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Planet_Auto379701EBA4F0BC9C21EF9528BA59C98B5.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/Autosaves/Game/Procedural/Planet_Auto3.uasset'
+[2019.02.18-22.07.46:002][295]LogFileHelpers: Auto-saving content packages took 0.110
+[2019.02.18-22.09.04:375][688]BlueprintLog: New page: Compile Planet
+[2019.02.18-22.09.04:602][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Procedural/Planet" FILE="../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset" SILENT=true
+[2019.02.18-22.09.04:683][688]LogSavePackage: Moving '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Saved/PlanetABAFEDCC4596A49F6DAF3A963C8AE6C6.tmp' to '../../../../../../Workspace/Dev/VideoGames/UnrealEngine/ProceduralGame/ProceduralGame/Content/Procedural/Planet.uasset'
